@@ -4,10 +4,11 @@ A bash script to create a chrome extension development project with HTML, Css an
 
 ## How to use 😕
 1. open the terminal 
-2. cd to the location where you want to start the project
-3. run 
+2. add script to the path variable
+3. cd to the location where you want to start the project
+4. run 
 ```bash
-bash newExtension.sh
+newExtension.sh
 ```
 
 ## What it'll do for you 🤔
